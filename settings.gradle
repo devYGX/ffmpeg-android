@@ -1,0 +1,2 @@
+include ':app', ':libyuvdemo:YuvLibrary', ':libyuvdemo:yuvsample', ':ffmpeg:libffmpeg', ':ffmpeg:ffmpegsample'
+rootProject.name='ffmpeg'
